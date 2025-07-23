@@ -556,7 +556,6 @@ class CfgPatches {
 			"blu_vn_o_pl_spiderhole_01",
 			"blu_vn_o_pl_spiderhole_02",
 			"blu_vn_o_pl_spiderhole_03",
-			"blu_vn_o_parachute_02",
 			"blu_vn_o_static_rsna75",
 			"blu_vn_o_static_rsna75_wreck",
 			"blu_vn_sa2",
@@ -1245,7 +1244,6 @@ class CfgVehicles {
 	class vn_o_pl_spiderhole_01;
 	class vn_o_pl_spiderhole_02;
 	class vn_o_pl_spiderhole_03;
-	class vn_o_parachute_02;
 	class vn_o_static_rsna75;
 	class vn_o_static_rsna75_wreck;
 	class vn_sa2;
@@ -1929,7 +1927,6 @@ class CfgVehicles {
 	class blu_vn_o_pl_spiderhole_01 : vn_o_pl_spiderhole_01 { scope=2; scopeCurator=2; side=1; };
 	class blu_vn_o_pl_spiderhole_02 : vn_o_pl_spiderhole_02 { scope=2; scopeCurator=2; side=1; };
 	class blu_vn_o_pl_spiderhole_03 : vn_o_pl_spiderhole_03 { scope=2; scopeCurator=2; side=1; };
-	class blu_vn_o_parachute_02 : vn_o_parachute_02 { scope=2; scopeCurator=2; side=1; };
 	class blu_vn_o_static_rsna75 : vn_o_static_rsna75 { scope=2; scopeCurator=2; side=1; };
 	class blu_vn_o_static_rsna75_wreck : vn_o_static_rsna75_wreck { scope=2; scopeCurator=2; side=1; };
 	class blu_vn_sa2 : vn_sa2 { scope=2; scopeCurator=2; side=1; };
