@@ -122,7 +122,6 @@ class CfgPatches {
 		"opf_vn_b_wheeled_m54_ammo_usmc",
 		"opf_vn_b_wheeled_m54_fuel_usmc",
 		"opf_vn_b_wheeled_m54_repair_usmc",
-		"opf_vn_basecharacter_01",
 		"opf_vn_b_men_sog_01",
 		"opf_vn_b_men_sog_02",
 		"opf_vn_b_men_sog_03",
@@ -284,7 +283,6 @@ class CfgPatches {
 		"opf_vn_b_men_jetpilot_08",
 		"opf_vn_b_men_jetpilot_09",
 		"opf_vn_b_men_jetpilot_10",
-		"opf_vn_basecharacter_02",
 		"opf_vn_b_men_seal_01",
 		"opf_vn_b_men_seal_02",
 		"opf_vn_b_men_seal_03",
@@ -1205,7 +1203,6 @@ class CfgVehicles {
 	class vn_b_wheeled_m54_ammo_usmc;
 	class vn_b_wheeled_m54_fuel_usmc;
 	class vn_b_wheeled_m54_repair_usmc;
-	class vn_basecharacter_01;
 	class vn_b_men_sog_01;
 	class vn_b_men_sog_02;
 	class vn_b_men_sog_03;
@@ -1367,7 +1364,6 @@ class CfgVehicles {
 	class vn_b_men_jetpilot_08;
 	class vn_b_men_jetpilot_09;
 	class vn_b_men_jetpilot_10;
-	class vn_basecharacter_02;
 	class vn_b_men_seal_01;
 	class vn_b_men_seal_02;
 	class vn_b_men_seal_03;
@@ -2283,7 +2279,6 @@ class CfgVehicles {
 	class opf_vn_b_wheeled_m54_ammo_usmc : vn_b_wheeled_m54_ammo_usmc  { scope=2; scopeCurator=2; side=0; };
 	class opf_vn_b_wheeled_m54_fuel_usmc : vn_b_wheeled_m54_fuel_usmc  { scope=2; scopeCurator=2; side=0; };
 	class opf_vn_b_wheeled_m54_repair_usmc : vn_b_wheeled_m54_repair_usmc  { scope=2; scopeCurator=2; side=0; };
-	class opf_vn_basecharacter_01 : vn_basecharacter_01  { scope=2; scopeCurator=2; side=0; };
 	class opf_vn_b_men_sog_01 : vn_b_men_sog_01  { scope=2; scopeCurator=2; side=0; };
 	class opf_vn_b_men_sog_02 : vn_b_men_sog_02  { scope=2; scopeCurator=2; side=0; };
 	class opf_vn_b_men_sog_03 : vn_b_men_sog_03  { scope=2; scopeCurator=2; side=0; };
@@ -2445,7 +2440,6 @@ class CfgVehicles {
 	class opf_vn_b_men_jetpilot_08 : vn_b_men_jetpilot_08  { scope=2; scopeCurator=2; side=0; };
 	class opf_vn_b_men_jetpilot_09 : vn_b_men_jetpilot_09  { scope=2; scopeCurator=2; side=0; };
 	class opf_vn_b_men_jetpilot_10 : vn_b_men_jetpilot_10  { scope=2; scopeCurator=2; side=0; };
-	class opf_vn_basecharacter_02 : vn_basecharacter_02  { scope=2; scopeCurator=2; side=0; };
 	class opf_vn_b_men_seal_01 : vn_b_men_seal_01  { scope=2; scopeCurator=2; side=0; };
 	class opf_vn_b_men_seal_02 : vn_b_men_seal_02  { scope=2; scopeCurator=2; side=0; };
 	class opf_vn_b_men_seal_03 : vn_b_men_seal_03  { scope=2; scopeCurator=2; side=0; };
